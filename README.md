@@ -1,5 +1,5 @@
 # Assignment
-Assignment_DS
+
 There are two program files:
 1. Assignment.ipynb: This file contains the main implementation.
 2. Assignment.pdf: Pdf version of the above file.
